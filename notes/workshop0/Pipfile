@@ -9,6 +9,7 @@ notebook = "==7.1.2"
 openai = "*"
 elasticsearch = "*"
 python-dotenv = "*"
+tiktoken = "*"
 
 [dev-packages]
 

@@ -66,3 +66,8 @@ It's practical when you have a small underlying LLM, then you want to train it f
 Then, the fine-tuned LLM will be as good as GPT, or even better, but lighter since it only focuses on laws.
 
 But with RAG, you don't retrain/create a new LLM. You simply use context to manipulate the LLM.
+
+## Known issue with Jupyter
+
+https://github.com/jupyter/notebook/issues/7221
+https://stackoverflow.com/questions/55152948/juypter-notebook-shows-blank-page
